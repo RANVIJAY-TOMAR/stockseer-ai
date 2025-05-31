@@ -1,8 +1,9 @@
-streamlit
-yfinance
-pandas
-plotly
-ta
-requests
-feedparser
-streamlit-lottie
+streamlit==1.28.0
+pandas==2.0.3
+plotly==5.15.0
+yfinance==0.2.31
+ta==0.10.2
+numpy==1.24.3
+transformers==4.33.0
+torch==2.0.1
+# Add specific versions for other libraries too
